@@ -1,42 +1,44 @@
-# ![blob](https://emojis.slackmojis.com/emojis/images/1471119456/981/fast_parrot.gif?1471119456) SSSC Coding Challenge 2021 ![blob](https://emojis.slackmojis.com/emojis/images/1471119456/981/fast_parrot.gif?1471119456)
+# ![blob](https://emojis.slackmojis.com/emojis/images/1471119456/981/fast_parrot.gif?1471119456) SSSC Coding Challenge 2022 ![blob](https://emojis.slackmojis.com/emojis/images/1471119456/981/fast_parrot.gif?1471119456)
 
 ## 🥳 Introduction
 
-Welcome to the SSSC's 2021 Coding Challenge! Over the next couple of hours, you and a team of 3 other people will try to solve as many of the provided problems as you can. Points will be assigned based off the number of teams that manage to solve each question (see [Scoring](#-scoring) below). The team with the most points at the end of the night wins! 🏆
+<!-- TODO: are teams allowed? -->
 
-And don't worry - there will also be a random raffle at the end of the night, so make sure to stay the whole time and try your best!
+Welcome to the SSSC's 2022 Coding Challenge! We've created several unique challenges that expose you to many areas of software development. Over the next couple of hours, you will try to solve as many of the provided challenges as you can.
+
+The student with the most points at the end of the night wins! 🏆 And don't worry - there will also be a random raffle at the end of the night, so make sure to stay the whole time and try your best!
 
 ## ✏️ Instructions
 
-Coding challenges will be added to this repository as teams complete questions.
+In this repo, there are 6 unique challenges for you to tackle! They vary in field and difficulty. You can complete them in any order you want, based on your interest! More instructions are provided with each challenge.
 
-**PLEASE LET US KNOW WHEN YOU COMPLETE A QUESTION** so that we can release the next challenge!
+**WHEN YOU COMPLETE A CHALLENGE** let us know so that we can record your points! At the end of the night, we will calculate the number of points each student has earned!
 
-At the end of the night, we will calculate the number of points each team has earned!
+Here are the challenges:
+
+| Challenge Name          | Area of Software Development   | Programming Language           | Number of Points | Author(s)         |
+|-------------------------|--------------------------------|--------------------------------|------------------|-------------------|
+| Fibonacci               | Algorithms and Data Structures | Any                            | 1                | Jake              |
+| Matching Brackets       | Algorithms and Data Structures | Any                            | 2                | Gordon, Callum    |
+| Squid Game              | Object-Oriented Programming    | Java                           | 3                | Omar, Sebastian   |
+| Spin the Wheel          | Terminal-based Game            | Python or Java                 | 3                | Michelle, Tiffany |
+| Replicate the Animation | Frontend Web Development       | CSS and HTML                   | 3                | Alejandra         |
+| Web Server              | Backend Web Development        | JavaScript (Node.js) or Python | 5                | David             |
+
 
 ## Downloading the Challenges
 
 1. Open Git Bash (if you don't know what this is, ask an SSSC mentor)
-2. Run `git clone https://github.com/ScienceStudentSuccessCentre/CodingChallenge2020.git`
-3. Navigate into the directory with `cd CodingChallenge2020`
-4. Every time we add a new question, run `git pull`
+2. Navigate into the directory you want to work in using `cd <name-of-directory>`
+3. Run `git clone https://github.com/ScienceStudentSuccessCentre/CodingChallenge2022.git`
+4. Open the new `CodingChallenge2022` folder with your favourite code editor
 
 If you need help with anything, please ask an SSSC mentor!
 
-## 💯 Scoring
-
-The number of points each question is worth will be judged based off of the number of teams that solve it. For example:
-
-- 5 teams at the event
-- 4 teams solve question 1
-- 1 team solves question 2
-- Therefore, question 2 is worth more than question 1
-
-If you're really curious, the formula is `(1 - (x / y)) * 10 + 1`.
 
 ## 💰 Prizes
 
-This year, the members of the winning team will each receive:
+This year, the 3 students with the most number of points will each receive:
 
 - [REDACTED] 🤯
 - [REDACTED] 🤯
