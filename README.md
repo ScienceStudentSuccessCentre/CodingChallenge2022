@@ -18,12 +18,12 @@ Here are the challenges:
 
 | Challenge Name          | Area of Software Development   | Programming Language           | Number of Points | Author(s)         |
 |-------------------------|--------------------------------|--------------------------------|------------------|-------------------|
-| Fibonacci               | Algorithms and Data Structures | Any                            | 100              | Jake              |
-| Matching Brackets       | Algorithms and Data Structures | Any                            | 200              | Gordon, Callum    |
-| Squid Game              | Object-Oriented Programming    | Java                           | 300              | Omar, Sebastian   |
-| Spin the Wheel          | Terminal-based Game            | Python or Java                 | 300              | Michelle, Tiffany |
-| Replicate the Animation | Frontend Web Development       | CSS and HTML                   | 400              | Alejandra         |
-| Web Server              | Backend Web Development        | JavaScript (Node.js) or Python | 500              | David             |
+| [Fibonacci](Fibonacci.py)               | Algorithms and Data Structures | Any                            | 100              | Jake              |
+| [Matching Brackets](matching_brackets.py)       | Algorithms and Data Structures | Any                            | 200              | Gordon, Callum    |
+| [Squid Game](SquidGame)              | Object-Oriented Programming    | Java                           | 300              | Omar, Sebastian   |
+| [Spin the Wheel](SpinTheWheel)          | Terminal-based Game            | Python or Java                 | 300              | Michelle, Tiffany |
+| [Replicate the Animation](animations) | Frontend Web Development       | CSS and HTML                   | 400              | Alejandra         |
+| [Web Server](BackendChallenge)              | Backend Web Development        | JavaScript (Node.js) or Python | 500              | David             |
 
 
 ## Downloading the Challenges
