@@ -6,7 +6,7 @@
 
 Welcome to the SSSC's 2022 Coding Challenge! We've created several unique challenges that expose you to many areas of software development. Over the next couple of hours, you will try to solve as many of the provided challenges as you can.
 
-The student with the most points at the end of the night wins! 🏆 And don't worry - there will also be a random raffle at the end of the night, so make sure to stay the whole time and try your best!
+The students with the most points at the end of the night wins! 🏆 And don't worry - there will also be a random raffle at the end of the night, so make sure to stay the whole time and try your best!
 
 ## ✏️ Instructions
 
@@ -26,7 +26,7 @@ Here are the challenges:
 | [Web Server](BackendChallenge)              | Backend Web Development        | JavaScript (Node.js) or Python | 500              | David             |
 
 
-## Downloading the Challenges
+## ⬇️ Downloading the Challenges
 
 1. Open Git Bash (if you don't know what this is, ask an SSSC mentor)
 2. Navigate into the directory you want to work in using `cd <name-of-directory>`
@@ -39,12 +39,11 @@ If you need help with anything, please ask an SSSC mentor!
 ## 💰 Prizes
 
 This year, the 3 students with the most number of points will each receive:
+| 🤯 $50 Campus Card Money!!! 🤯 |
+| --- |
 
-- [REDACTED] 🤯
-- [REDACTED] 🤯
+In addition, we will be holding a raffle, for another chance to win the prize!
 
-In addition, we will be holding a raffle, for the chance to win:
-
-- [REDACTED] 🤯
+You can spend it at many places [on-campus or around the city](https://carleton.ca/campuscard/using-campus-card/)!
 
 Have fun, and good luck! 🍀
